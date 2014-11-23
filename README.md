@@ -66,6 +66,4 @@ e) write.table() creates a .Summary_test5.txt file with the summarized dataset.
 
 **To load the Summary_test5.txt in R:**
 
-```data <- read.table(file_path, header = TRUE)
-
-   View(data)```
+```data <- read.table(file_path, header = TRUE)```
