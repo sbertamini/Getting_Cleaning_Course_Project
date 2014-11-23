@@ -4,8 +4,9 @@ Here a brief description of the script uploaded.
 
 Following the assignment request there are 5 step (+ 1 pre-processing step):
 
-**0. Pre-processing phase ** 
-In this phase the script will just load the requested libraries. In this phase my original version provided also the download and unzipping of the data. 
+**0. Pre-processing phase** 
+In this phase the script will just load the requested libraries.
+My original version provided also the download and unzipping phases of the data. 
 
 
 **1. Merges the training and the test sets to create one data set**
